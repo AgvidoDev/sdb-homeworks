@@ -1,0 +1,16 @@
+--2023-09-27 21:40:07--  https://disk.yandex.ru/client/recent?idApp=client
+Resolving disk.yandex.ru (disk.yandex.ru)... 87.250.250.50, 2a02:6b8::2:50
+Connecting to disk.yandex.ru (disk.yandex.ru)|87.250.250.50|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://passport.yandex.ru/auth?from=cloud&origin=disk_landing_web_signin_ru&retpath=https%3A%2F%2Fdisk.yandex.ru%2Fclient%2Frecent%3FidApp%3Dclient&backpath=https%3A%2F%2Fdisk.yandex.ru [following]
+--2023-09-27 21:40:07--  https://passport.yandex.ru/auth?from=cloud&origin=disk_landing_web_signin_ru&retpath=https%3A%2F%2Fdisk.yandex.ru%2Fclient%2Frecent%3FidApp%3Dclient&backpath=https%3A%2F%2Fdisk.yandex.ru
+Resolving passport.yandex.ru (passport.yandex.ru)... 213.180.204.24, 2a02:6b8::24
+Connecting to passport.yandex.ru (passport.yandex.ru)|213.180.204.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘recent?idApp=client’
+
+recent?idApp=client                   [<=>                                                           ]       0  --.-KB/s               recent?idApp=client                   [ <=>                                                          ]  67.25K  --.-KB/s    in 0.002s  
+
+2023-09-27 21:40:07 (42.3 MB/s) - ‘recent?idApp=client’ saved [68865]
+
